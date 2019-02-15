@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiDemo", "FluentApiDemo.csproj", "{8D354031-5835-46B1-AC64-D6C07CDFFA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D354031-5835-46B1-AC64-D6C07CDFFA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D354031-5835-46B1-AC64-D6C07CDFFA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D354031-5835-46B1-AC64-D6C07CDFFA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D354031-5835-46B1-AC64-D6C07CDFFA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
